@@ -1,0 +1,31 @@
+/* src/pages/Dashboard.css */
+
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .movie-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .movie-table th, .movie-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .movie-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .movie-table img.movie-image {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  .movie-table button {
+    margin-right: 5px;
+  }
+  
